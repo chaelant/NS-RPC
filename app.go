@@ -36,7 +36,7 @@ var gamesList Games
 var connErr bool = false
 
 const clientID string = "1114647533562646700"
-const gamesURL string = "https://raw.githubusercontent.com/Da532/NS-RPC/master/games.json"
+const gamesURL string = "https://raw.githubusercontent.com/chaelant/NS-RPC/refs/heads/master/games.json"
 
 func NewApp() *App {
 	return &App{}
