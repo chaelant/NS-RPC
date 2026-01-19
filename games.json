@@ -1,9 +1,5 @@
 [
   {
-    "title": "Hollow Knight",
-    "img": "hk1"
-  },
-  {
     "title": "Splatoon 2",
     "img": "spl2"
   },
@@ -466,5 +462,13 @@
   {
     "title": "Mario Kart 8 Deluxe",
     "img": "mk8d"
+  },
+  {
+    "title": "Hollow Knight",
+    "img": "hk1"
+  },
+  {
+    "title": "Kirby Air Riders",
+    "img": "kar"
   }
 ]
