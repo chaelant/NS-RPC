@@ -35,7 +35,10 @@ type Pins []string
 var gamesList Games
 var connErr bool = false
 
-const clientID string = "1114647533562646700"
+// original client id
+// const clientID string = "1114647533562646700"
+
+const clientID string = "1462660131085877301"
 const gamesURL string = "https://raw.githubusercontent.com/chaelant/NS-RPC/refs/heads/master/games.json"
 
 func NewApp() *App {
